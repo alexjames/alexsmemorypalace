@@ -4,10 +4,6 @@ title: Car Driving Rules
 categories: lifeskills
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
 Driving Rules  
   
 Lights - parking lights, high beam, low beam  
