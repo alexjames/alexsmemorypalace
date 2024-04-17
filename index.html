@@ -18,6 +18,15 @@ title: Home
       {% endif %}
     {% endfor %}
   </ul>
+  <h1>Investment</h1>
+  <ul class="pages">
+    {% for page in site.pages %}
+      {% if page.categories == "investment" %}
+      {{ title }}
+        <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
   <h1>Podcasts</h1>
   <ul class="pages">
     {% for page in site.pages %}
