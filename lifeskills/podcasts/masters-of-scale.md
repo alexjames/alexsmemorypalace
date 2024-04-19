@@ -8,3 +8,5 @@ categories: podcasts
  * Do things that don't scale. Figure out the most perfect experience someone can have. Then figure out how to scale it to a million users.
  * Designing a perfect experience and scaling an experience are different skillsets that use different parts of the brain.
 
+###### Mark Cuban
+ * Great founders have hunger, speed and humility.
