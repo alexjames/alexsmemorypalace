@@ -34,7 +34,7 @@ Stay in the middle of the lane
 Drive at or 5-10 below speed limit  
 Maintain safe following distance of 2-3 seconds  
 Keep an eye out for road signs and obstructions  
-Keep looking at mirrors every 7-10 seconds for other cars  
+Keep scanning mirrors every 7-10 seconds for other cars  
   
 **Changing Lanes (SMOG)**
 Signal in the direction you want to go
