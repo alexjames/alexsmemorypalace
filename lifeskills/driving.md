@@ -4,9 +4,9 @@ title: Car Driving Rules
 categories: lifeskills
 ---
 
-Driving Rules  
+## Driving Rules  
   
-Lights - parking lights, high beam, low beam  
+Lights - parking lights, high beam, low beam, emergency lights
 Gears
 
 **Stop Sign** -
@@ -14,9 +14,13 @@ Gears
 (2) look in all four directions
 (3) Go when safe
 
+If you are at an intersection, look for stop lines in all directions. 
+
+If it's a four-way stop sign, you leave the junction in the order in which cars arrived. If you and another car arrived at the same time, the car to the right goes first. There are rare cases when it's not clear who should go first, in which case you can use your hands to let the other car go first.
+
 **Yield Sign** - 
 (1) Slow down 
-(2) Be ready to stop if there are crossing pedestrians or cars
+(2) Be ready to stop if there are crossing pedestrians or oncoming cars
 (3) Do not stop if there are no pedestrians or cross traffic
 
 SMOG = Signal Mirrors Over-The-Shoulder Go
