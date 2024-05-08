@@ -10,39 +10,39 @@ Lights - parking lights, high beam, low beam, emergency lights
 Gears
 
 **Stop Sign** -
-(1) Slow down and stop behind line
-(2) look in all four directions
-(3) Go when safe
+1. Slow down and stop behind line
+2. Look in all four directions
+3. Go when safe
 
 If you are at an intersection, look for stop lines in all directions. 
 
 If it's a four-way stop sign, you leave the junction in the order in which cars arrived. If you and another car arrived at the same time, the car to the right goes first. There are rare cases when it's not clear who should go first, in which case you can use your hands to signal the other car go first.
 
 **Yield Sign** - 
-(1) Slow down 
-(2) Be ready to stop if there are crossing pedestrians or oncoming cars
-(3) Do not stop if there are no pedestrians or cross traffic
+1. Slow down
+2. Be ready to stop if there are crossing pedestrians or oncoming cars
+3. Do not stop if there are no pedestrians or cross traffic
 
 SMOG = Signal Mirrors Over-The-Shoulder Go
 Signal at least 100 feet, unless right after intersection in which case you signal after you cross the intersection
 Mirrors look left, top and right one
 
 **Driving Straight**  
-Put foot on accelerator  
-Keep eyes pointing forward (not at the back of the car in front) to look 2-3 cars ahead  
-Stay in the middle of the lane  
-Drive at or 5-10 below speed limit  
-Maintain safe following distance of 2-3 seconds  
-Keep an eye out for road signs and obstructions  
-Keep scanning mirrors every 7-10 seconds for other cars  
+1. Put foot on accelerator  
+2. Keep eyes pointing forward (not at the back of the car in front) to look 2-3 cars ahead  
+3. Stay in the middle of the lane  
+4. Drive at or 5-10 below speed limit  
+5. Maintain safe following distance of 2-3 seconds  
+6. Keep an eye out for road signs and obstructions  
+7. Keep scanning mirrors every 7-10 seconds for other cars  
   
 **Changing Lanes (SMOG)**
-Signal in the direction you want to go
-Check mirrors
-Look over the shoulder for your blind spot
-Slow down if necessary
-Make sure you leave enough space between you and the car that will be in front of you after the change
-Change lanes
+1. Signal in the direction you want to go
+2. Check mirrors
+3. Look over the shoulder for your blind spot
+4. Slow down if necessary
+5. Make sure you leave enough space between you and the car that will be in front of you after the change
+6. Change lanes
 
 **Right Turn**
 (1) SMOG Move to the right-most lane. If it's a bike lane, move into it after SMOG so bicyclists don't get hit when you take a right turn
