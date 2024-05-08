@@ -29,7 +29,7 @@ Mirrors look left, top and right one
 
 **Driving Straight**  
 Put foot on accelerator  
-Keep eyes pointing forward (not down in front) to look 2-3 cars ahead  
+Keep eyes pointing forward (not at the back of the car in front) to look 2-3 cars ahead  
 Stay in the middle of the lane  
 Drive at or 5-10 below speed limit  
 Maintain safe following distance of 2-3 seconds  
