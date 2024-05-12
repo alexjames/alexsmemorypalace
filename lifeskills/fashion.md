@@ -6,8 +6,14 @@ categories: lifeskills
 
 ## Principles of Fashion
  * Fit is more important than style. You must know the rules before you bend or break them.
- * 
+ * Neutral colors never go out of style - cream, beige, black, brown, white, gray
 
+## Materials
+#### Polyester
+#### Cotton
+#### Linen
+#### Wool
+#### Cashmere
 
 ## Principles of Fit
 ### Polo Shirts
@@ -34,3 +40,10 @@ Generally get slim fit or tapered fit. Wider fits are *less* stylish.
  * Canali
 #### Mid-Tier
 
+
+# Appendix
+## Colors
+Colors can generally be categorized as warm, cool, or neutral. 
+ * Warm colors - reds, oranges, and yellows
+ * Cool colors - blues, greens, and purples
+ * Neutral colors (lack strong chromatic content) - black, white, gray, and brown
