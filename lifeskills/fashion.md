@@ -25,7 +25,7 @@ Shirts with longer backsides are meant to be tucked-in (the extra fabric ensures
 5. Length should end between upper and mid crotch.
 
 ### Jeans/Pants
-Generally get slim fit or tapered fit. Wider fits are *less* stylish.
+Generally get slim fit or tapered fit are more flattering. Wider fits are *less* stylish because they don't emphasize your legs and make you look shorter.
 1. Top should be one or two inches below belly button
 2. Should hold without a belt, can fit two fingers in between waist and pant
 3. A well-fitting pait of jeans highlight your body. It should hug butt and not have excess fabric 
