@@ -12,6 +12,7 @@ categories: lifeskills
 #### Polyester
 #### Cotton
 #### Linen
+#### Leather
 #### Wool
 #### Cashmere
 
