@@ -9,6 +9,7 @@ categories: lifeskills
  * Neutral colors never go out of style - cream, beige, black, brown, white, gray
  * Belts are not meant to hold your pants. If they do, it means you have the wrong size pant. Belt's color should match shoe. Belt's should not have a prominent buckle.
 
+
 ## Materials
 #### Polyester
 #### Cotton
@@ -34,6 +35,24 @@ Generally get slim fit or tapered fit are more flattering. Wider fits are *less*
 4. One to two inches extra fabric when pulled from thigh, should closely hug thigh
 5. Should taper downards towards the calf 
 6. The length should touch top of shoe. Not longer or shorter.
+
+## Categories
+#### Luxury/High-end
+ * Highest quality craftnamship and materials
+ * Exclusivity
+ * E.g. Louis Vuitton, Prada, Gucci
+#### Designer
+ * High quality clothing at lower that luxury price-point
+ * E.g. Ralph Lauren, Coach, Michael Kors
+#### Contemporary
+ * Stylish, trending clothing
+ * E.g. Zara, H&M
+#### Fast Fashion
+ * Inexpensive, quickly-produced clothing
+ * E.g. Forever 21, Primark
+#### Streetwear
+ * Casual, urban clothing
+ * E.g. Supreme, Off-White 
 
 ## Brand Tiers
 #### Top-Tier
