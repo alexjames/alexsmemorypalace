@@ -7,6 +7,7 @@ categories: lifeskills
 ## Principles of Fashion
  * Fit is more important than style. You must know the rules before you bend or break them.
  * Neutral colors never go out of style - cream, beige, black, brown, white, gray
+ * Belts are not meant to hold your pants. If they do, it means you have the wrong size pant. Belt's color should match shoe. Belt's should not have a prominent buckle.
 
 ## Materials
 #### Polyester
