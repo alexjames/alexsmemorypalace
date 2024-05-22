@@ -59,8 +59,11 @@ Generally get slim fit or tapered fit are more flattering. Wider fits are *less*
  * Brunello Cucillini
  * Loro Piana
  * Canali
-#### Mid-Tier
-
+#### Mid-Range
+ * Ralph Lauren
+#### Low-Tier/Budget
+ * GAP
+ * Old Navy
 
 # Appendix
 ## Colors
