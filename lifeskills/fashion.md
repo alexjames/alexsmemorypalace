@@ -36,6 +36,11 @@ Generally get slim fit or tapered fit are more flattering. Wider fits are *less*
 5. Should taper downards towards the calf 
 6. The length should touch top of shoe. Not longer or shorter.
 
+### Shorts
+1. Shorts should fit the same as pants.
+2. Length should be 1"-3" above knee. Shorts should never go past the knee.
+3. Chino shorts can be worn - navy, khaki, grey, white.
+
 ## Categories
 #### Luxury/High-end
  * Highest quality craftnamship and materials
