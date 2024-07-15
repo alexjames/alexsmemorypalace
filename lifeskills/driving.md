@@ -13,7 +13,13 @@ Gears
  * Mirrors look left, top and right one
  * Tires 1/32-inch uniformed threading 
  * 1 inch clearance between brake pedal and floor
- * You can horn to oncoming traffic on narrow mountain roads if you can't see ahead 
+ * You can horn to oncoming traffic on narrow mountain roads if you can't see ahead
+ * When school bus has lights on for kids, stop on both sides unless divider in the way
+ * Illegal to follow within 300 feet of vehicle with siren on
+ * To pass someone like a bicyclist, you change lanes and change back
+ * Illegal to follow within 300 feet of vehicle with siren on
+
+To pass someone like a bicyclist, you change lanes and change back
 
 ### Lane colors
 Yellow line, never cross unless broken
@@ -21,6 +27,11 @@ Soild White line avoid crossing
 Broken white line you can lane change 
 Large broken lines - lane ending 
 
+### General Speed Limits
+ * 15 mph alleys
+ * 25 mph residential, business
+ * School zone speed limit 25
+ * 35 on major streets
 
 **Stop Sign** -
 1. Slow down and stop behind line
