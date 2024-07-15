@@ -6,11 +6,20 @@ categories: lifeskills
 
 ## Driving Rules  
   
-Lights - parking lights, high beam, low beam, emergency lights
+ * Lights - parking lights, high beam, low beam, emergency lights
 Gears
-SMOG = Signal Mirrors Over-The-Shoulder Go
-Signal at least 100 feet, unless right after intersection in which case you signal after you cross the intersection
-Mirrors look left, top and right one
+ * SMOG = Signal Mirrors Over-The-Shoulder Go
+ * Signal at least 100 feet before a turn, unless the turn is right after intersection, in which case you signal after you cross the intersection
+ * Mirrors look left, top and right one
+ * Tires 1/32-inch uniformed threading 
+ * 1 inch clearance between brake pedal and floor
+ * You can horn to oncoming traffic on narrow mountain roads if you can't see ahead 
+
+### Lane colors
+Yellow line, never cross unless broken
+Soild White line avoid crossing
+Broken white line you can lane change 
+Large broken lines - lane ending 
 
 
 **Stop Sign** -
@@ -56,12 +65,13 @@ You may cross a bus-lane for a right turn.
 Dedicated right turn lane, you can go without stopping even if red, as long as not prohibited by traffic sign or there are pedestrians you need to yield for.
 
 
-Left Turn
-(1) Enter left turn lane. Keep wheels straight.
-(2) Figure out where exactly the left-most lane will be after the turn by looking at lane markings. Aim for that lane.
-(3) If the turn is unprotected, yield to all oncoming traffic going straight or taking a right. They have right of way. If the light turns red however AND you're in the intersection, you have right of way (because oncoming traffic for straight and right turn have a red now). Turn.
-Turn left on red only from one-way street to another one-way street.
+**Left Turn**
+1. Enter left turn lane. Keep wheels straight.
+2. Figure out where exactly the left-most lane will be after the turn by looking at lane markings. Aim for that lane.
+3. If the turn is unprotected, yield to all oncoming traffic going straight or taking a right. They have right of way.
+4. If the light turns red however AND you're in the intersection, you have right of way (because oncoming traffic for opposite side and right turn have a red now). Turn.
+5. Turn left on red only from one-way street to another one-way street.
 
 
-Emergency situations -  
-Accelerator stuck - put on neutral, use hand brake
+**Emergency situations**  
+ * Accelerator stuck: put on neutral, use hand brake
