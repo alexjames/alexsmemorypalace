@@ -10,4 +10,5 @@ categories: software
  * If you can't maintain style in the whole codebase, at least maintain it in a single file or module.
  * Deeply understand the code before re-factoring.
  * Avoid adding new libraries and dependencies.
+ * Write tests to ensure functionality doesn't break.
  * Get feedback (code reviews).
