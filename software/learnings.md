@@ -4,6 +4,10 @@ title: Software Engineering Learnings
 categories: software
 ---
 
+###### Code
+ * Every line of code is a liability.
+ * The best code is no code.
+
 ###### Refactor
  * Make small, manageable changes.
  * Good refactor uses language idiomatic constructs without significantly changing style.
