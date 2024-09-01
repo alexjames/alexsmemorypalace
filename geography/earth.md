@@ -4,7 +4,7 @@ title: Earth Stats
 categories: geography
 ---
 
-##### Stats
+## Stats
  * *29.3%* land, *70.7%* water
  * 7 contients
    * Asia
@@ -19,6 +19,12 @@ categories: geography
    * Atlantic
    * Indian
    * Arctic
-###### Vertical vs Horizontal Scaling
- * Vertical Scaling: Adding more CPU, Memory, Network bandwidth, etc.
- * Horizontal Scaling: Add more hosts or nodes
+## Largest Countries
+
+###### Questions
+ * How are rivers formed?
+ * What is a channel, how is it formed?
+ * What are volcanoes, why only in certain areas?
+ * What would earth look like if no oceans?
+ * What causes waves? Why are they different in different places?
+ * Grass? grasslands? shrubs?
