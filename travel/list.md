@@ -74,10 +74,21 @@ categories: travel
  * Capri
 
 ## Switzerland
-### Lucern
+### Lucerne
 ### Jungfrau
 ### Zermatt
 ### Interlaken
 ### Geneva
  * CERN
 ### Zurich
+
+## Germany
+### Berlin
+### Munich
+### Hamburg
+
+## Greece
+### Athens
+### Mykonos
+### Santorini
+### Crete
