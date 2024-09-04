@@ -60,3 +60,24 @@ categories: travel
  * French Riviera
 ### Consider
  * Charmonix, Tolouse, Provence, Marsielle, Carcasonne, Lyon, Dijon, Bordeaux
+
+## Italy
+### Rome
+### Pisa
+### Florence
+### Vatican City
+### Milan
+### Venice
+### Dolomites
+### Amalfi Coast
+ * Positano
+ * Capri
+
+## Switzerland
+### Lucern
+### Jungfrau
+### Zermatt
+### Interlaken
+### Geneva
+ * CERN
+### Zurich
