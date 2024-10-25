@@ -16,3 +16,6 @@ categories: software
  * Avoid adding new libraries and dependencies.
  * Write tests to ensure functionality doesn't break.
  * Get feedback (code reviews).
+
+###### SRE
+ * Hope is not a strategy.
