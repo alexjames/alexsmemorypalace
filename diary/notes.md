@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Diary
-categories: Notes
+categories: notes
 ---
 
 #### 16th December, 2024
