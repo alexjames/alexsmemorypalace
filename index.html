@@ -54,4 +54,13 @@ title: Home
       {% endif %}
     {% endfor %}
   </ul>
+  <h1>Notes</h1>
+  <ul class="notes">
+    {% for page in site.pages %}
+      {% if page.categories == "notes" %}
+      {{ title }}
+        <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
   </div>
