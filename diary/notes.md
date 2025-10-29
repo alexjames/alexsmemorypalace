@@ -20,3 +20,4 @@ categories: notes
  * Venezuela vs Norway - Venezuela mismanaged oil generated wealth by squandering through public spending and corruption, while Norway build a soverign fund.
  * Colonial legacies create uneven playing fields through extractive institutions, arbitraty borders, ethnic fragmentation, and weak governance structures such as centralization, few checks and balances, no free press and discouraging opposition.
  * Colonial legacies are constraints, not destinies. Countries like India, Singapore and Botswana managed to create strong economies.
+ * A prosperous nation requires institutions with high public trust.
