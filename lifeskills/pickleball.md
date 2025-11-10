@@ -17,3 +17,4 @@ categories: lifeskills
  * Aim for your opponents legs, making it harder for them to return.
  * A third shot dink gives you enough time to run up to the net.
  * You want to be as close to the kitchen as possible, giving your opponents lesser room.
+ * Imagine there is a thread connecting you and the ball. It pull you as the ball moves. That helps you understand what your optimal position should be.
