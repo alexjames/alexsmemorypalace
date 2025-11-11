@@ -1,11 +1,15 @@
 ---
 layout: page
 title: LinkHub
-categories: notes
+categories:  
 ---
 
 # LinkHub
+### Tech
+ * [x.com/elonmusk](https://x.com/elonmusk)
+
 ### AI
- * https://x.com/soumithchintala [Pytorch creator]
+ * [x.com/soumithchintala](https://x.com/soumithchintala) [Pytorch creator]
 
 ### Academics
+ * [hachyderm.io/@dave_andersen](https://hachyderm.io/@dave_andersen) [CMU]
