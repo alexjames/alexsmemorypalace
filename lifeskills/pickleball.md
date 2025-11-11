@@ -16,6 +16,11 @@ categories: lifeskills
  * Drop volley - when the opponent drives the ball and you counter with a drop shot
  * Bangers - player who hits with pace
 
+## Grips
+ * Bevel 2: Continental grip - good for backhand, weak forehand; used at the kitchen for dinks, volleys and drives
+ * Bevel 3: Eastern grip - neutral on both sides; for serves and smashes
+ * Bevel 4: Semi-western - great for top-spin, weak backhand
+
 ## Strategy
  * Aim for your opponents feet, making it harder for them to return. Between the feet and shins, aim for the shin because it's a harder shot to return.
  * A third shot dink gives you enough time to run up to the net.
