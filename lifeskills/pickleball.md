@@ -9,7 +9,7 @@ categories: lifeskills
  * The return - after one bounce
  * 3rd shot - can be a drive or drop
  * Dink - hitting the ball in the kitchen
- * Donk - when you return the ball too high giving the opponent an opportunity to smash
+ * Pop-up/Donk - when you return the ball too high giving the opponent an opportunity to smash
  * Speedup - changing the pace of the ball by hitting it hard after dinking
  * Net cord - when the ball grazes on the net but still goes over the net
  * Let serve - when the serve hits the net on the way in, is legal as long as its in the box
@@ -28,4 +28,11 @@ categories: lifeskills
  * Imagine there is a thread connecting you and the ball. It pull you as the ball moves. That helps you understand what your optimal position should be.
  * Control and consistency are key elements to the game.
  * Hit high percentage shots.
- * A drink down the line is a little harder because the net is higher there.
+ * A dink down the line is a little harder because the net is higher there.
+ * Apply pressure with your court positioning.
+
+## Practice Drills
+ * Running back and forth switching grips. Eastern while moving back, continental while moving front
+
+## Notes
+ * For anyone curious, the names of the different grip styles come from tennis, where players from different regions ("Eastern" US, "Western" US, and "Continental" Europe) used different grips to accommodate for the varying bounce of the ball on surface types used predominantly in each region.
