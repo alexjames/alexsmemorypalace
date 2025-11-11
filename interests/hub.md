@@ -5,6 +5,10 @@ categories:
 ---
 
 # LinkHub
+## News
+ * [BizToc](https://biztoc.com/)
+
+## Socials
 ### Tech
  * [x.com/elonmusk](https://x.com/elonmusk)
 
