@@ -10,7 +10,7 @@ categories: notes
 
 ## Socials
 ### Engineering
-
+ * [x.com/GergelyOrosz](https://x.com/GergelyOrosz) [Pragmatic Engineer]
  * [Ethan Evans](https://www.linkedin.com/in/ethanevansvp/recent-activity/all/) [Ex-AMZN VP]
  * [David Anderson](https://www.linkedin.com/in/scarletink/) [Ex-AMZN GM]
  * [arpitbhayani](https://www.linkedin.com/in/arpitbhayani/recent-activity/all/) [Influencer]
@@ -18,10 +18,13 @@ categories: notes
 
 ### Tech
  * [x.com/elonmusk](https://x.com/elonmusk)
+ * [x.com/yishan](https://x.com/yishan) [Ex-Reddit CEO]
+
+### Startups
+ * [x.com/vhmth](https://x.com/vhmth) [Co-founded Loom]
 
 ### AI
  * [x.com/soumithchintala](https://x.com/soumithchintala) [Pytorch creator]
- * 
 
 ### Academics
  * [hachyderm.io/@dave_andersen](https://hachyderm.io/@dave_andersen) [CMU]
