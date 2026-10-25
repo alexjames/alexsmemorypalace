@@ -13,8 +13,11 @@ categories: podcasts
 ### Alex Karp
  * You have to be 10x better than the people around you to be really successful. Your product needs to be 10x better.
 
-### Nikhil Arora
+### Nikesh Arora
  * Categories you'll see outsized returns in Cybersecurity are where you see new attack vectors being born. Where there are multiple
  opinions or agreement on the best approaches.
  * The majority of software is interaction with some database with some user interface. An agent removes the need for that interface. It's a change in the mode of interaction with the system of record.
  * If AI agents will evaluate decisions for us, what is the role of advertising in the future?
+ * The democratization of information happened through the internet. Now we are democratizing intelligence through AI.
+ * People will use the inflection point of the democratization of intelligence to solve problems differently. Example how Amazon moved from retail online and Google caused the shift from offline to online advertizing. Lower friction, lower cost and better outcomes will win.
+ * You have to rethink problem with intelligence now being available. If your rethink is marginal, then you'll only have a marginal or weak product. The rethink has to 10x or 20x.
