@@ -15,7 +15,7 @@ categories: podcasts
 
 ### Nikesh Arora
  * Categories you'll see outsized returns in Cybersecurity are where you see new attack vectors being born. Where there are multiple
- opinions or no agreement on what the best approaches.
+ opinions or no agreement on what the best approaches are.
  * The majority of software is interaction with some database with some user interface. An agent removes the need for that interface. It's a change in the mode of interaction with the system of record.
  * If AI agents will evaluate decisions for us, what is the role of advertising in the future?
  * The democratization of information happened through the internet. Now we are democratizing intelligence through AI.
