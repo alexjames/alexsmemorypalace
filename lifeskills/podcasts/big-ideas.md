@@ -12,3 +12,9 @@ categories: podcasts
 
 ### Alex Karp
  * You have to be 10x better than the people around you to be really successful. Your product needs to be 10x better.
+
+### Nikhil Arora
+ * Categories you'll see outsized returns in Cybersecurity are where you see new attack vectors being born. Where there are multiple
+ opinions or agreement on the best approaches.
+ * The majority of software is interaction with some database with some user interface. An agent removes the need for that interface. It's a change in the mode of interaction with the system of record.
+ * If AI agents will evaluate decisions for us, what is the role of advertising in the future?
